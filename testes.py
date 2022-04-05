@@ -1,4 +1,4 @@
-from .models.calculadora import Calculadora
+from models.calculadora import Calculadora
 from unittest import TestCase, main
 
 
